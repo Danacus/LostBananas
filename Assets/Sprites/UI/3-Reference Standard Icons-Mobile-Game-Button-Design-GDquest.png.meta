@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 0dcc5b1ec03a7cb4db98446398e58bc3
+timeCreated: 1444143015
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_0
+    21300002: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_1
+    21300004: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_2
+    21300006: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_3
+    21300008: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_4
+    21300010: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_5
+    21300012: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_6
+    21300014: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_7
+    21300016: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_8
+    21300018: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_9
+    21300020: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_10
+    21300022: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_11
+    21300024: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_12
+    21300026: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_13
+    21300028: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_14
+    21300030: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_15
+    21300032: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_16
+    21300034: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_17
+    21300036: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_18
+    21300038: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_19
+    21300040: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_20
+    21300042: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_21
+    21300044: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_22
+    21300046: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_23
+    21300048: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_24
+    21300050: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_25
+    21300052: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_26
+    21300054: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 211
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 211
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 211
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 211
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 211
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 211
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 141
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 141
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_10
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 141
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 141
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 141
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_13
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 141
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 71
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 71
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 71
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_18
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 71
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_19
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 71
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_20
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 71
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_23
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_26
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3-Reference Standard Icons-Mobile-Game-Button-Design-GDquest_27
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
