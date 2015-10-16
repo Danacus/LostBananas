@@ -13,11 +13,13 @@ public class MonkeyJump : MonoBehaviour
     public bool changingNextJumpRight = false;
     public Vector2 newPos;
     public float lerpRate;
+    public Sprite mirror;
+    private Sprite normal;
 
     // Use this for initialization
     private void Start()
     {
-
+        normal = GetComponent<SpriteRenderer>().sprite;
     }
 
     // Update is called once per frame
@@ -29,6 +31,7 @@ public class MonkeyJump : MonoBehaviour
             GetComponent<Rigidbody2D>().gravityScale = 0.2f;
         }
         else
+
         {
             GetComponent<Rigidbody2D>().gravityScale = 1;
         }
@@ -204,9 +207,9 @@ public class MonkeyJump : MonoBehaviour
                 GetComponent<Rigidbody2D>().AddForce(transform.right * 250);
                 GetComponent<Rigidbody2D>().AddForce(transform.up * 350);
                 readyToJump = false;
-                if (transform.localScale.x < 0)
+                if (GetComponent<SpriteRenderer>().sprite == mirror)
                 {
-                    //transform.localScale = new Vector2(transform.localScale.x * -1, transform.localScale.y);
+                    GetComponent<SpriteRenderer>().sprite = normal;
                 }
             }
         }
@@ -226,9 +229,9 @@ public class MonkeyJump : MonoBehaviour
                 GetComponent<Rigidbody2D>().AddForce(transform.right * -250);
                 GetComponent<Rigidbody2D>().AddForce(transform.up * 350);
                 readyToJump = false;
-                if (transform.localScale.x > 0)
+                if (GetComponent<SpriteRenderer>().sprite == normal)
                 {
-                    //transform.localScale = new Vector2(transform.localScale.x * -1, transform.localScale.y);
+                    GetComponent<SpriteRenderer>().sprite = mirror;
                 }
             }
         }
