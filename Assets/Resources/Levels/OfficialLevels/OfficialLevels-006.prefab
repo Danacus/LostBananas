@@ -443,7 +443,7 @@ GameObject:
   - 4: {fileID: 402830}
   - 114: {fileID: 11452390}
   m_Layer: 0
-  m_Name: OfficialLevels-6
+  m_Name: OfficialLevels-006
   m_TagString: Level
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -106,10 +106,26 @@ public class LevelMenu : MonoBehaviour
         foreach (GameObject s in LevelLoader.levels)
         {
             string modString = s.name.Replace(".prefab", "");
+            Debug.Log(modString.Split("-"[0])[1].Substring(0, 1));
+            if (modString.Substring(0, 1) == "0")
+            {
+                if ((modString.Split("-"[0])[1]).Substring(0, 2) == "00")
+                {
+                    modString = (modString.Split("-"[0])[1]);
+                    modString = modString.Substring(2, modString.Length);
+                    Debug.Log("00");
+                }
+                else
+                {
+                    modString = (modString.Split("-"[0])[1]);
+                    modString = modString.Substring(1, modString.Length);
+                    Debug.Log("0");
+                }
+            }
             GameObject go = Instantiate(prefab);
             go.transform.SetParent(transform, false);
-            go.name = modString;
-            go.transform.GetChild(0).GetComponent<Text>().text = modString.Split("-"[0])[1];
+            go.name = s.name.Replace(".prefab", "");
+            go.transform.GetChild(0).GetComponent<Text>().text = modString;
 
             levels.Add(go);
             go.SetActive(false);
