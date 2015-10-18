@@ -107,19 +107,19 @@ public class LevelMenu : MonoBehaviour
         {
             string modString = s.name.Replace(".prefab", "");
             Debug.Log(modString.Split("-"[0])[1].Substring(0, 1));
-            if (modString.Substring(0, 1) == "0")
+            if (modString.Split("-"[0])[1].Substring(0, 1) == "0")
             {
                 if ((modString.Split("-"[0])[1]).Substring(0, 2) == "00")
                 {
                     modString = (modString.Split("-"[0])[1]);
-                    modString = modString.Substring(2, modString.Length);
-                    Debug.Log("00");
+                    modString = modString.Substring(2, modString.Length - 2);
+                    Debug.Log("00 ///// " + modString);
                 }
                 else
                 {
                     modString = (modString.Split("-"[0])[1]);
-                    modString = modString.Substring(1, modString.Length);
-                    Debug.Log("0");
+                    modString = modString.Substring(1, modString.Length - 1);
+                    Debug.Log("0 ///// " + modString);
                 }
             }
             GameObject go = Instantiate(prefab);

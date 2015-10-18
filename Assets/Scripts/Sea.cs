@@ -16,8 +16,9 @@ public class Sea : MonoBehaviour
 
     }
 
-    private void OnTriggerEnter2D()
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        GameObject.Find("LevelManager").GetComponent<LevelManager>().RetryLevel();
+        if (other.name == "Monkey")
+            GameObject.Find("LevelManager").GetComponent<LevelManager>().RetryLevel();
     }
 }
